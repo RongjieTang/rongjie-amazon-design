@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon 主图与详情页创作"
+  short_description: "Create Amazon main images, listing graphics, and A+ pages."
+  default_prompt: "Use $rongjie-amazon-design to plan Amazon main images and detail-page creative for my product."
